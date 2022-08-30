@@ -1,0 +1,300 @@
+_id,name,number,_Section
+30,Jersey Basic,1676,329
+31,Clean Lingerie,1339,330
+32,Tights basic,3608,331
+33,Baby basics,6515,332
+34,Casual Lingerie,1334,330
+35,Jersey Basic,5883,333
+36,Jersey,2032,334
+37,EQ & Special Collections,4342,335
+38,Hair Accessories,4343,335
+39,Other items,3419,335
+40,Baby Nightwear,6563,332
+41,Men Sport Woven,8559,336
+42,Men Sport Bottoms,8394,336
+43,Kids Boy Denim,7956,337
+44,Shopbasket Socks,3611,331
+45,Socks,3610,331
+46,UW,3937,338
+47,Young Girl Jersey Basic,7930,339
+48,Jacket Street,5283,340
+49,Belts,3509,341
+50,Divided Shoes,3929,342
+51,Swimwear,4242,343
+52,Underwear Jersey,7988,333
+53,Basic 1,1643,338
+54,Tops Knitwear DS,5963,344
+55,Men Sport Acc,8560,336
+56,Kids Boy Jersey Basic,7668,345
+57,Young Girl UW/NW,7932,339
+58,Shirt,5783,346
+59,Nightwear,3709,331
+60,Trouser,5683,346
+61,Small Accessories,3946,342
+62,Sunglasses,8888,335
+63,Gloves/Hats,3519,341
+64,Trouser,5656,347
+65,Knit & Woven,3945,342
+66,Basics,5868,333
+67,Accessories,9985,348
+68,Jewellery,4344,335
+69,Jersey Fancy DS,5962,344
+70,Trousers DS,1649,344
+71,Bags,3209,341
+72,Blazer S&T,8615,349
+73,Knitwear,1626,350
+74,Woven bottoms,2031,334
+75,Shorts,5658,347
+76,Dresses DS,5961,344
+77,Expressive Lingerie,1338,330
+78,Trouser,1722,350
+79,Kids Girl UW/NW,7922,339
+80,Young Boy Jersey Basic,8768,345
+81,Kids Girl S&T,7921,339
+82,Young Girl S&T,7931,339
+83,Shoes / Boots inactive from s5,3630,351
+84,Nursing,2035,334
+85,Jersey Fancy,5882,346
+86,Shoes,3629,351
+87,Functional Lingerie,3710,330
+88,Men Sport Tops,8558,336
+89,Other Accessories,3948,342
+90,Bags,3944,342
+91,Young Boy Trouser,8756,352
+92,Jersey,1919,353
+93,Woven bottoms,1939,353
+94,Outdoor/Blazers DS,5960,344
+95,Mama Lingerie,3705,330
+96,Socks Bin,7188,333
+97,Shorts,1745,354
+98,Denim Other Garments,1773,355
+99,Everyday Waredrobe Denim,1779,355
+100,Knitwear,5878,356
+101,Belts,7389,348
+102,Jersey Fancy,5828,356
+103,Trousers,1747,354
+104,Denim Trousers,1772,355
+105,Outdoor/Blazers,1244,354
+106,Young Boy Denim,8956,352
+107,EQ & Special Collections,3439,341
+108,Scarves,3409,341
+109,Small Accessories,9986,348
+110,Dresses,1344,354
+111,Skirts,1444,354
+112,Kids Girl Jersey Basic,7920,339
+113,Baby Socks,6541,332
+114,Trousers & Skirt,1948,357
+115,Young Boy Shirt,8757,352
+116,Kids Girl Big Acc,4312,358
+117,Young Girl Denim,8917,359
+118,Flats,3527,360
+119,Baby Toys/Acc,2950,332
+120,Trouser,1717,361
+121,Projects Dresses,1343,362
+122,Denim shorts,5673,363
+123,Jersey inactive from s1,5957,346
+124,Promotion/Other/Offer,8090,364
+125,Shorts,5687,356
+126,Knitwear,5831,349
+127,Bags & Items,7388,348
+128,Jersey,1666,361
+129,Trouser,5631,349
+130,Small Bags,1920,341
+131,Trouser S&T,8616,349
+132,Shirt S&T,8617,349
+133,Shirt,5731,349
+134,Knitwear,1949,353
+135,Woven Tops,2033,334
+136,Denim trousers,5672,363
+137,Young Girl Knitwear,8718,359
+138,Outwear,1201,365
+139,Knitwear,5884,346
+140,Knitwear inactive from s1,5958,347
+141,Projects Woven Tops,1545,362
+142,Projects Jersey & Knitwear,1644,362
+143,Denim wardrobe H&M man inactive from S.6,5679,366
+144,Baby Boy Outdoor,6512,367
+145,Trouser,5686,356
+146,Premium Quality,3040,360
+147,Woven inactive from s1,5956,347
+148,Tops woven DS,1547,344
+149,Newborn,6564,332
+150,Skirt,1422,350
+151,Jersey License,1670,368
+152,Jewellery Extended,4345,335
+153,Light Basic Jersey,5832,333
+154,Suit Extended inactive from s1,5454,349
+155,Young Boy UW/NW,4225,345
+156,Jersey,1641,357
+157,Tops Knitwear,1647,354
+158,Kids Boy Socks,4214,345
+159,Young Boy Socks,4224,345
+160,Outdoor inactive from s1,5952,347
+161,Swimwear,9984,333
+162,Kids Girl Swimwear,4310,369
+163,Young Girl Swimwear,4320,369
+164,Ladies Sport Bras,8316,370
+165,Ladies Sport Bottoms,8310,370
+166,Jersey fancy,1636,350
+167,Shirt,5777,356
+168,Blazer,5555,356
+169,Knitwear,2034,334
+170,Baby Boy Woven,6565,367
+171,Kids Boy Swimwear,4210,369
+172,Young boy Swimwear,4220,369
+173,Skirt,1414,361
+174,Shorts,1723,350
+175,Kids Dress-up/Football,4314,369
+176,Jersey Fancy,5848,347
+177,Sneakers small girl inactive from s2,4317,371
+178,Tops Woven,1543,354
+179,Blouse,1510,368
+180,Shorts DS,1642,344
+181,Boots,3529,360
+182,Kids Boy Big Acc,4212,358
+183,Boys Small Acc & Bags,4213,369
+184,Woven top,1909,353
+185,Young Girl Dresses,8713,359
+186,Knitwear Basic,1646,329
+187,Sneakers,3828,360
+188,Dress,1322,350
+189,Baby Girl Woven,6555,372
+190,Baby Girl Jersey Fancy,6525,372
+191,Jacket Casual,5252,340
+192,Kids Boy UW/NW,4215,345
+193,Ladies Sport Acc,8396,370
+194,Dress,1313,361
+195,Kids Girl Jersey Fancy,7616,373
+196,Shorts,5690,346
+197,Baby Exclusive,6557,332
+198,Young Boy Shorts,8755,352
+199,Knitwear,1610,368
+200,EQ Divided Basics,3936,374
+201,Shorts & Skirts,1410,368
+202,Promotion/ Other /Offer,4090,362
+203,Kids Boy Trouser,7656,337
+204,Blouse,1515,361
+205,Tops Fancy Jersey,1640,354
+206,Kids Girl Knitwear,7618,373
+207,Kids Boy Jersey Fancy,7648,337
+208,Jersey,1660,368
+209,Trouser,1710,368
+210,Heels,3528,360
+211,Woven Premium,1912,375
+212,Blouse & Dress,1941,357
+213,Kids Girl Trouser,7617,373
+214,Kids Girl Dresses,7613,373
+215,Projects Woven Bottoms,1743,362
+216,Conscious Exclusive,7020,376
+217,Shoes Other,3939,374
+218,Kids Girl Outdoor,7812,358
+219,Skirts DS,1447,344
+220,Young Girl Jersey Fancy,8716,359
+221,Young Boy Outdoor,8852,358
+222,Young Girl Outdoor,8812,358
+223,Accessories,3510,368
+224,Woven Occasion,1926,375
+225,Kids Boy Outdoor,7852,358
+226,Blazer,5131,349
+227,Blouse,1522,350
+228,Young Boy Jersey Fancy,8748,352
+229,Shirt,5767,347
+230,Kids Boy Shoes,4211,371
+231,Outwear,1929,353
+232,Ladies Sport Woven,8397,370
+233,Bottoms Girls,6281,377
+234,Tops Girls,6280,377
+235,Dress,1310,368
+236,Young Girl Big Acc,4322,358
+237,Young Boy Shoes,4221,371
+238,Young Boy Knitwear,8758,352
+239,Suit,1212,361
+240,Kids Girl Shoes,4311,371
+241,Jacket Smart,5262,340
+242,Projects,5741,378
+243,Kids Boy Knitwear,7658,337
+244,Woven bottoms inactive from S.7,8398,370
+245,Jersey/Knitwear Premium,1612,375
+246,Sneakers big girl inactive from s2,4327,371
+247,Suit jacket,1222,350
+248,Kids Boy Shirt,7657,337
+249,Jacket,5231,340
+250,Kids Girl Denim,7917,373
+251,Young Girl Trouser,8717,359
+252,Girls Small Acc/Bags,4313,369
+253,Shirt Extended inactive from s1,5787,349
+254,Tops Boys,6283,377
+255,Baby Girl Knitwear,6526,372
+256,Baby Shoes,6561,371
+257,Knitwear,1616,361
+258,Jackets,1202,361
+259,Jersey Occasion,1686,375
+260,Young Boy Big Acc,4222,358
+261,Kids Girl License,7819,373
+262,Knitwear,5858,347
+263,Baby Boy Jersey Fancy,6545,367
+264,Bottoms Boys,8563,377
+265,Local relevance,5641,378
+266,Dress-up Boys,4216,369
+267,Small Acc. Jewellery & Other,4323,369
+268,Baby Boy Knitwear,6546,367
+269,Equatorial Assortment,3030,350
+270,Loungewear,9989,333
+271,Accessories,7530,379
+272,Studio Collection,2080,376
+273,Woven,7510,379
+274,Outwear & Blazers,1241,357
+275,Knitwear,1648,357
+276,Underwear Jersey Fancy inactive from s1,7989,333
+277,Special Collection,9020,376
+278,Take Care External,3080,380
+279,Equatorial,1352,362
+280,Divided+,1652,362
+281,OL Extended Sizes,1774,355
+282,Knitwear,7520,379
+283,Campaigns,3090,350
+284,Underwear Woven,7987,333
+285,Heavy Basic Jersey,5833,333
+286,EQ H&M Man,8030,366
+287,Young Girl Shoes,4321,371
+288,AK Other,4030,381
+289,Kids Boy Shorts,7655,337
+290,Bottoms,1752,382
+291,Loungewear,3708,331
+292,Shopbasket Lingerie,1336,330
+293,Kids Boy License,7659,337
+294,Baby Girl Outdoor,6550,372
+295,Promotion / Other / Offer,7050,332
+296,Divided+ inactive from s.1,5959,353
+297,OL Extended Sizes,1778,338
+298,Accessories,3941,357
+299,Tops & Bottoms Other,3932,374
+300,Take care,4920,380
+301,Girls Local Relevance,7814,383
+302,AK Dresses & Outdoor,5626,381
+303,Limited Edition,3000,376
+304,Jersey License,7952,346
+305,AK Tops Jersey & Woven,4020,381
+306,AK Tops Knitwear,5627,381
+307,Divided Swimwear,1645,338
+308,AK Bottoms,1744,381
+309,Girls Projects,7854,383
+310,On Demand,5950,346
+311,Test Ladies,1727,384
+312,Socks Wall,5999,333
+313,Jersey inactive from S.6,1620,385
+314,Boys Local Relevance,7848,383
+315,License,8815,359
+316,Price Items,4091,362
+317,Asia Assortment,7912,350
+318,Accessories Boys,8564,377
+319,Read & React,4092,362
+320,EQ Ladies Denim,3938,374
+321,Small Accessories Extended,3420,335
+322,Baby Boy Local Relevance,2932,383
+323,Kids Girl Exclusive,7757,373
+324,Baby Girl Local Relevance,2930,383
+325,EQ Divided Blue,3943,346
+326,Kids Boy Exclusive,7857,337
+327,Accessories Other,3931,374
+328,Blanks,5888,333

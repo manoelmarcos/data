@@ -1,0 +1,31 @@
+_id,name,number
+0,Solid,1010016
+1,Stripe,1010017
+2,All over pattern,1010001
+3,Melange,1010010
+4,Transparent,1010019
+5,Metallic,1010011
+6,Application/3D,1010002
+7,Denim,1010023
+8,Colour blocking,1010005
+9,Dot,1010006
+10,Other structure,1010026
+11,Contrast,1010020
+12,Treatment,1010018
+13,Check,1010004
+14,Chambray,1010024
+15,Front print,1010008
+16,Glittering/Metallic,1010009
+17,Mixed solid/pattern,1010012
+18,Placement print,1010014
+19,Other pattern,1010013
+20,Neps,1010027
+21,Embroidery,1010007
+22,Lace,1010021
+23,Jacquard,1010022
+24,Unknown,-1
+25,Argyle,1010003
+26,Slub,1010025
+27,Mesh,1010028
+28,Sequin,1010015
+29,Hologram,1010029

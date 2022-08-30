@@ -1,0 +1,51 @@
+_id,code,name
+450,09,Black
+451,10,White
+452,11,Off White
+453,12,Light Beige
+454,13,Beige
+455,07,Grey
+456,71,Light Blue
+457,06,Light Grey
+458,73,Dark Blue
+459,08,Dark Grey
+460,52,Pink
+461,43,Dark Red
+462,15,Greyish Beige
+463,31,Light Orange
+464,03,Silver
+465,05,Gold
+466,51,Light Pink
+467,53,Dark Pink
+468,17,Yellowish Brown
+469,72,Blue
+470,81,Light Turquoise
+471,22,Yellow
+472,19,Greenish Khaki
+473,23,Dark Yellow
+474,50,Other Pink
+475,63,Dark Purple
+476,42,Red
+477,02,Transparent
+478,93,Dark Green
+479,40,Other Red
+480,82,Turquoise
+481,33,Dark Orange
+482,01,Other
+483,32,Orange
+484,14,Dark Beige
+485,20,Other Yellow
+486,91,Light Green
+487,30,Other Orange
+488,62,Purple
+489,41,Light Red
+490,21,Light Yellow
+491,92,Green
+492,61,Light Purple
+493,83,Dark Turquoise
+494,60,Other Purple
+495,04,Bronze/Copper
+496,80,Other Turquoise
+497,90,Other Green
+498,70,Other Blue
+499,-1,Unknown
